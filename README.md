@@ -1,4 +1,4 @@
-# Capital Finder
+# Capital Finder &middot; ![license badge](https://badgen.net/badge/license/MIT/red?icon=vercel)
 
 Serverless function deployed to the cloud (Vercel) that returns the capital of a country or the country of a capital city query.
 
